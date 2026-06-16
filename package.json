@@ -1,0 +1,31 @@
+{
+  "name": "kostal-assistant-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "@tanstack/react-query": "^5.100.8",
+    "axios": "^1.18.0",
+    "lucide-react": "^0.454.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.17.0",
+    "react-select": "^5.10.2",
+    "react-to-print": "^3.3.0",
+    "remark-gfm": "^4.0.1",
+    "tailwindcss": "^4.1.18",
+    "uuid": "^14.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "vite": "^5.4.10"
+  }
+}
